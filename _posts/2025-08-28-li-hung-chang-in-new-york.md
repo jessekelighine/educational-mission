@@ -4,6 +4,7 @@ title: "李鴻章特輯"
 date: 2025-08-28
 anchor: "li-hung-chang-in-new-york"
 ---
+
 <style>
 .li-hung-chang-container { display: flex; }
 .li-hung-chang-container p { margin-bottom: 0; }
@@ -522,7 +523,7 @@ anchor: "li-hung-chang-in-new-york"
 >     Ex-President of the United States of America.
 >     For the Purpose of Commemorating His Greatness by Li Hung Chang,
 >     Guardian of the Prince, Grand Secretary of State, Earl of the First Order.
->     Yang Yu, Envoy Extraordinary and Minister [Plenipotentiary](https://en.wikipedia.org/wiki/Plenipotentiary) of China, Vice President of the Board of Censors.
+>     Yang Yu, Envoy Extraordinary and Minister <a href="https://en.wikipedia.org/wiki/Plenipotentiary">Plenipotentiary</a> of China, Vice President of the Board of Censors.
 >     Kwang Hsu 23rd Year, 4th Moon, May 1897.
 >   </p>
 > </div>
@@ -639,103 +640,220 @@ anchor: "li-hung-chang-in-new-york"
 然而，這位曾被格蘭特將軍譽為「東方俾斯麥」的大臣卻落得如此下場，不勝唏噓。
 
 <details>
-<summary><strong>《李傅相歷聘歐美記》中紀錄的紐約行程</strong></summary>
-
-  以下行程主要是根據[*《李傅相歷聘歐美記・美軺載筆》*](https://hdl.handle.net/2027/hvd.32044067626119)以及美國報紙的紀錄整理而成。
-  但是有一個問題：
-  1896 年 8 月 31 日的行程在*《李傅相歷聘歐美記》*中沒有紀錄。
-  該書主要以光緒年號紀年，偶爾附註西曆。
-  雖然光緒紀年的日期是連續的，但對照西曆卻跳過了 8 月 31 日。
-  我傾向認為這是編者在中西曆轉換時出現了錯誤。
-  相比之下，美國方面的記錄更為完整。
-  例如[*《科學人》*在 1896 年 9 月 12 日的副刊](https://www.scientificamerican.com/issue/supplements/1896/09-12/)以及
-  [*Harper's Weekly* 在 1896 年 9 月 12 日的報導](https://archive.org/details/sim_harpers-weekly_1896-09-12_40_2073)都相對詳細地記載了李鴻章在紐約的行程。
-  好笑的是，在跟美國各報紙的紀錄對照後，
-  發現*《李傅相歷聘歐美記》*中的光緒紀年確有錯誤，但西曆紀日反而是正確的。
-  此外，[*《西洋镜：海外史料看李鸿章》*](https://special.rhky.com/mobile/mooc/tocourse/214677656?user_token=123&DSSTASH_LOG=&UID=&_uid=&fid=&vc3=&_d=&uf=&_industry=)
-  一書也整理了不少關於李鴻章的外國報導，
-  但是有其中一些資料紀錄不完整，有一些報導則難以查證，
-  因此，下列行程我盡量以能找到的一手資料為憑。
-
-  * `1896-08-28` 李鴻章抵達紐約，港口鳴放廿一響禮炮，儀仗隊夾道歡迎。李鴻章沿著第五大道，經過華盛頓廣場公園到華大府飯店下榻。由於坐船太累，當天沒有其他活動。
-    <!-- - [SS St. Louis 的航程紀錄](https://www.norwayheritage.com/p_ship.asp?sh=stlou)：李鴻章從英國到美國搭乘的蒸汽船。 -->
-    - *New York Passenger Arrival Lists (Ellis Island), 1892-1924*，由 [`familysearch.com` 資料庫](https://www.familysearch.org/en/search/collection/1368704)提供。李鴻章名字見於該資料庫中 [Roll 664, 24 Aug 1896-11 Sep 1896 中 Image 288 of 897](https://www.familysearch.org/ark:/61903/3:1:33S7-91DC-HZF?wc=4FMB-78F%3A1600272313%26cc%3D1368704&cc=1368704&lang=en&i=287)：李鴻章一行人於 1896 年 8 月 28 日抵達紐約的入境紀錄。
-    - [*Harper's Weekly* 在 1896 年 9 月 12 日的圖片](https://archive.org/details/sim_harpers-weekly_1896-09-12_40_2073)，圖片由[美國國會圖書館](https://www.loc.gov/item/95519221/)掃描：李鴻章抵岸的照片。
-    - [*《紐約時報》*在隔天 8 月 29 日的報導](https://nyti.ms/4mIYPmf)：李鴻章抵達紐約時的情況。
-  * `1896-08-29` 時任美國總統克利夫蘭在前任海部大臣 [W. C. Whitney 在紐約的別墅](https://en.wikipedia.org/wiki/William_C._Whitney_House)親自迎接李鴻章。李鴻章在遞交國書後與紐約市長、前駐華公使以及曾經居住於中國的美國人士會晤。
-    - [*Harper's Weekly* 在 1896 年 9 月 12 日的報導](https://archive.org/details/sim_harpers-weekly_1896-09-12_40_2073)，圖片由[美國國會圖書館](https://www.loc.gov/item/95519275/)掃描：李鴻章遞交國書的照片。
-    - [*《科學人》*副刊在 9 月 12 日的報導](https://www.scientificamerican.com/issue/supplements/1896/09-12/)：克利夫蘭接見李鴻章的對話。
-  * `1896-08-30` 李鴻章先前往格蘭特將軍墓憑弔，隨後由其遺孀與長子接待。途中貫穿中央公園，最後抵達格蘭特長子位於東 62 街的住所。格蘭特本人過世前曾居於附近東 66 街 3 號，不過舊宅早已改建，如今只剩下[門口一塊紀念牌](https://www.hmdb.org/m.asp?m=146259)。
-    - [*Harper's Weekly* 在 1896 年 9 月 12 日的報導](https://archive.org/details/sim_harpers-weekly_1896-09-12_40_2073)，圖片由[美國國會圖書館](https://www.loc.gov/item/95519221/)掃描：李鴻章憑弔格蘭特將軍墓以及接受接待。
-    - [*The Sun* 在 8 月 31 日的報導](https://www.nyshistoricnewspapers.org/?a=d&d=sun18960831-01.1.1&e=-------en-20--1--txt-txIN----------)頭版：詳細記載李鴻章憑弔格蘭特墓園的始末，並記錄接受接待地點。
-    - [*《科學人》*副刊在 9 月 12 日的報導](https://www.scientificamerican.com/issue/supplements/1896/09-12/)：李鴻章憑弔格蘭特墓。
-    - [*《紐約時報》*在 8 月 31 日的報導](https://nyti.ms/4myVHKk)：李鴻章憑弔格蘭特墓。
-  * `1896-08-31` 李鴻章自 East River 登船，船上懸掛黃龍旗，途經布魯克林大橋，後沿哈德遜河逆流而上前往西點軍校。原定安排有軍隊操練展示，但因當日大雨，他最終未能登岸參觀。為了一睹他的身影，沿途河岸與水面上聚集了大批人群與船隻。
-    - [*Harper's Weekly* 在 1896 年 9 月 12 日的報導](https://archive.org/details/sim_harpers-weekly_1896-09-12_40_2073)：李鴻章坐船去西點軍校，報導稱這天行程頗失敗。
-    - [*The Sun* 在 8 月 31 日的報導](https://www.nyshistoricnewspapers.org/?a=d&d=sun18960831-01.1.1&e=-------en-20--1--txt-txIN----------)：提到今天預計去西點軍校的行程。
-    - [*The Daily Herald* 在 1896 年 9 月 2 日的報導（第二頁）](https://digmichnews.cmich.edu/?a=d&d=MenomineeDH18960902-01.1.2&e=-------en-10--1--txt-txIN-hung-------MenomineeDH18960902%252D01--)：完整報導當天李鴻章坐船去西點軍校始末。
-    - [*《科學人》*副刊在 9 月 12 日的報導](https://www.scientificamerican.com/issue/supplements/1896/09-12/)：李鴻章坐船去西點軍校。
-  * `1896-09-01` 李鴻章與美國基督教會人士於華大府飯店會晤。結束後在 Merchants' Club 吃午餐，[地點](https://en.wikipedia.org/wiki/108_Leonard)就位在中國城附近。用餐結束後前往中國城參觀，在李鴻章離開後中國城內華人放鞭炮慶祝，許多美國人似乎是第一次聽到鞭炮聲。結束後再到 [Union Square](https://en.wikipedia.org/wiki/Union_Square,_Manhattan) 觀看紐約消防隊的展示。由於李鴻章在中國城上車時手指指甲夾到，所以沒能參加華人晚上辦的宴席。也有一說是因為行程太累所以沒出席。
-    - [*Interview with His Excellency Li Hung Chang*](https://hdl.handle.net/2027/nnc2.ark:/13960/t2s51qt5f)：李鴻章與教會人士會晤的英文紀錄。
-    - [*Harper's Weekly* 在 1896 年 9 月 12 日的報導](https://archive.org/details/sim_harpers-weekly_1896-09-12_40_2073)：李鴻章當天完整行程。
-    - [*《紐約時報》* 在 9 月 3 日的報導](https://nyti.ms/4fZnd17)：提到李鴻章手指被夾到。
-    - [*《科學人》*副刊在 9 月 12 日的報導](https://www.scientificamerican.com/issue/supplements/1896/09-12/)：李鴻章在 Merchants' Club 吃午餐時，他的其中一位翻譯聽到一位與會美國商人說他在哈佛大學時參與過划船比賽，這位翻譯小聲地說他也在同場比賽中擔任艇長，並且贏得該年的比賽冠軍。這位翻譯是當年在哈佛大學的華人學生，可惜沒有記下他的名字。
-  * `1896-09-02` 李鴻章接受美國記者採訪，結束後前往布魯克林的 [Union League Club](https://en.wikipedia.org/wiki/Union_League_Club) 參加宴會，並注意到俱樂部外才剛剛樹立不久的[格蘭特紀念像](https://thereconstructionera.com/ulysses-s-grant-in-brooklyn/)。
-    - [*Harper's Weekly* 在 1896 年 9 月 12 日的報導](https://archive.org/details/sim_harpers-weekly_1896-09-12_40_2073)：李鴻章在接受完採訪後前往 Union League Club 參加宴會。
-    - [*《紐約時報》*在 9 月 3 日的採訪報導](https://nyti.ms/4fZnd17)：明確紀錄是在 9 月 2 日進行採訪。
-    - [*《李傅相歷聘歐美記》*](https://hdl.handle.net/2027/hvd.32044067626119)在這天有記錄一個其他地方都沒說的小插曲：李鴻章與前駐華公使聊天。聊到前駐華公使現在在從事人壽保險，李鴻章問能不能也幫他保，前公使連忙說依照公司規定，沒有辦法幫李中堂承保；李鴻章旋即回問：「以余年邁而保不住耶？」。兩人大笑而別。沒有講到地點，但很有可能是在 Union League Club。
-  * `1896-09-03` 李鴻章一早便動身離開紐約前往費城、華府。
-
+  <summary><strong>《李傅相歷聘歐美記》中紀錄的紐約行程</strong></summary>
+  <p>
+    以下行程主要是根據<a href="https://hdl.handle.net/2027/hvd.32044067626119"><em>《李傅相歷聘歐美記・美軺載筆》</em></a>以及美國報紙的紀錄整理而成。
+    但是有一個問題： 1896 年 8 月 31 日的行程在<em>《李傅相歷聘歐美記》</em>中沒有紀錄。
+    該書主要以光緒年號紀年，偶爾附註西曆。
+    雖然光緒紀年的日期是連續的，但對照西曆卻跳過了 8 月 31 日。
+    我傾向認為這是編者在中西曆轉換時出現了錯誤。
+    相比之下，美國方面的記錄更為完整。
+    例如<a href="https://www.scientificamerican.com/issue/supplements/1896/09-12/"><em>《科學人》</em>在 1896 年 9 月 12 日的副刊</a>以及
+    <a href="https://archive.org/details/sim_harpers-weekly_1896-09-12_40_2073"><em>Harper’s Weekly</em> 在 1896 年 9 月 12 日的報導</a>都相對詳細地記載了李鴻章在紐約的行程。
+    好笑的是，在跟美國各報紙的紀錄對照後，
+    發現<em>《李傅相歷聘歐美記》</em>中的光緒紀年確有錯誤，但西曆紀日反而是正確的。
+    此外，<a href="https://special.rhky.com/mobile/mooc/tocourse/214677656?user_token=123&amp;DSSTASH_LOG=&amp;UID=&amp;_uid=&amp;fid=&amp;vc3=&amp;_d=&amp;uf=&amp;_industry="><em>《西洋镜：海外史料看李鸿章》</em></a>
+    一書也整理了不少關於李鴻章的外國報導，
+    但是有其中一些資料紀錄不完整，有一些報導則難以查證，
+    因此，下列行程我盡量以能找到的一手資料為憑。
+  </p>
+  <ul>
+    <li>
+      <code>1896-08-28</code>
+      李鴻章抵達紐約，港口鳴放廿一響禮炮，儀仗隊夾道歡迎。李鴻章沿著第五大道，經過華盛頓廣場公園到華大府飯店下榻。由於坐船太累，當天沒有其他活動。
+      <!-- - [SS St. Louis 的航程紀錄](https://www.norwayheritage.com/p_ship.asp?sh=stlou)：李鴻章從英國到美國搭乘的蒸汽船。 -->
+      <ul>
+        <li>
+          <em>New York Passenger Arrival Lists (Ellis Island), 1892-1924</em>，
+          由 <a href="https://www.familysearch.org/en/search/collection/1368704"><code>familysearch.com</code> 資料庫</a>提供。
+          李鴻章名字見於該資料庫中 <a href="https://www.familysearch.org/ark:/61903/3:1:33S7-91DC-HZF?wc=4FMB-78F%3A1600272313%26cc%3D1368704&amp;cc=1368704&amp;lang=en&amp;i=287">Roll 664, 24 Aug 1896-11 Sep 1896 中 Image 288 of 897</a>：
+          李鴻章一行人於 1896 年 8 月 28 日抵達紐約的入境紀錄。
+        </li>
+        <li>
+          <a href="https://archive.org/details/sim_harpers-weekly_1896-09-12_40_2073"><em>Harper’s Weekly</em> 在 1896 年 9 月 12 日的圖片</a>，
+          圖片由<a href="https://www.loc.gov/item/95519221/">美國國會圖書館</a>掃描：李鴻章抵岸的照片。
+        </li>
+        <li>
+          <a href="https://nyti.ms/4mIYPmf"><em>《紐約時報》</em>在隔天 8 月 29 日的報導</a>：
+          李鴻章抵達紐約時的情況。
+        </li>
+      </ul>
+    </li>
+    <li>
+      <code>1896-08-29</code> 時任美國總統克利夫蘭在前任海部大臣
+      <a href="https://en.wikipedia.org/wiki/William_C._Whitney_House">W. C. Whitney 在紐約的別墅</a>親自迎接李鴻章。
+      李鴻章在遞交國書後與紐約市長、前駐華公使以及曾經居住於中國的美國人士會晤。
+      <ul>
+        <li>
+          <a href="https://archive.org/details/sim_harpers-weekly_1896-09-12_40_2073"><em>Harper’s Weekly</em> 在 1896 年 9 月 12 日的報導</a>，
+          圖片由<a href="https://www.loc.gov/item/95519275/">美國國會圖書館</a>掃描：李鴻章遞交國書的照片。
+        </li>
+        <li>
+          <a href="https://www.scientificamerican.com/issue/supplements/1896/09-12/"><em>《科學人》</em>副刊在 9 月 12 日的報導</a>：
+          克利夫蘭接見李鴻章的對話。
+        </li>
+      </ul>
+    </li>
+    <li>
+      <code>1896-08-30</code>
+      李鴻章先前往格蘭特將軍墓憑弔，隨後由其遺孀與長子接待。
+      途中貫穿中央公園，最後抵達格蘭特長子位於東 62 街的住所。格蘭特本人過世前曾居於附近東 66 街 3 號，不過舊宅早已改建，
+      如今只剩下<a href="https://www.hmdb.org/m.asp?m=146259">門口一塊紀念牌</a>。
+      <ul>
+        <li>
+          <a href="https://archive.org/details/sim_harpers-weekly_1896-09-12_40_2073"><em>Harper’s Weekly</em> 在 1896 年 9 月 12 日的報導</a>，
+          圖片由<a href="https://www.loc.gov/item/95519221/">美國國會圖書館</a>掃描：
+          李鴻章憑弔格蘭特將軍墓以及接受接待。
+        </li>
+        <li>
+          <a href="https://www.nyshistoricnewspapers.org/?a=d&amp;d=sun18960831-01.1.1&amp;e=-------en-20--1--txt-txIN----------"><em>The Sun</em> 在 8 月 31 日的報導</a>頭版：
+          詳細記載李鴻章憑弔格蘭特墓園的始末，並記錄接受接待地點。
+        </li>
+        <li>
+          <a href="https://www.scientificamerican.com/issue/supplements/1896/09-12/"><em>《科學人》</em>副刊在 9 月 12 日的報導</a>：
+          李鴻章憑弔格蘭特墓。
+        </li>
+        <li>
+          <a href="https://nyti.ms/4myVHKk"><em>《紐約時報》</em>在 8 月 31 日的報導</a>：
+          李鴻章憑弔格蘭特墓。
+        </li>
+      </ul>
+    </li>
+    <li>
+      <code>1896-08-31</code>
+      李鴻章自 East River 登船，船上懸掛黃龍旗，途經布魯克林大橋，後沿哈德遜河逆流而上前往西點軍校。
+      原定安排有軍隊操練展示，但因當日大雨，他最終未能登岸參觀。為了一睹他的身影，沿途河岸與水面上聚集了大批人群與船隻。
+      <ul>
+        <li>
+          <a href="https://archive.org/details/sim_harpers-weekly_1896-09-12_40_2073"><em>Harper’s Weekly</em> 在 1896 年 9 月 12 日的報導</a>：
+          李鴻章坐船去西點軍校，報導稱這天行程頗失敗。
+        </li>
+        <li>
+          <a href="https://www.nyshistoricnewspapers.org/?a=d&amp;d=sun18960831-01.1.1&amp;e=-------en-20--1--txt-txIN----------"><em>The Sun</em> 在 8 月 31 日的報導</a>：
+          提到今天預計去西點軍校的行程。
+        </li>
+        <li>
+          <a href="https://digmichnews.cmich.edu/?a=d&amp;d=MenomineeDH18960902-01.1.2&amp;e=-------en-10--1--txt-txIN-hung-------MenomineeDH18960902%252D01--"><em>The Daily Herald</em> 在 1896 年 9 月 2 日的報導（第二頁）</a>：
+          完整報導當天李鴻章坐船去西點軍校始末。</li>
+        <li>
+          <a href="https://www.scientificamerican.com/issue/supplements/1896/09-12/"><em>《科學人》</em>副刊在 9 月 12 日的報導</a>：
+          李鴻章坐船去西點軍校。
+        </li>
+      </ul>
+    </li>
+    <li>
+      <code>1896-09-01</code>
+      李鴻章與美國基督教會人士於華大府飯店會晤。結束後在 Merchants’ Club 吃午餐，
+      <a href="https://en.wikipedia.org/wiki/108_Leonard">地點</a>就位在中國城附近。
+      用餐結束後前往中國城參觀，在李鴻章離開後中國城內華人放鞭炮慶祝，許多美國人似乎是第一次聽到鞭炮聲。
+      結束後再到 <a href="https://en.wikipedia.org/wiki/Union_Square,_Manhattan">Union Square</a>
+      觀看紐約消防隊的展示。由於李鴻章在中國城上車時手指指甲夾到，所以沒能參加華人晚上辦的宴席。也有一說是因為行程太累所以沒出席。
+      <ul>
+        <li>
+          <a href="https://hdl.handle.net/2027/nnc2.ark:/13960/t2s51qt5f"><em>Interview with His Excellency Li Hung Chang</em></a>：
+          李鴻章與教會人士會晤的英文紀錄。
+        </li>
+        <li>
+          <a href="https://archive.org/details/sim_harpers-weekly_1896-09-12_40_2073"><em>Harper’s Weekly</em> 在 1896 年 9 月 12 日的報導</a>：
+          李鴻章當天完整行程。
+        </li>
+        <li>
+          <a href="https://nyti.ms/4fZnd17"><em>《紐約時報》</em> 在 9 月 3 日的報導</a>：
+          提到李鴻章手指被夾到。
+        </li>
+        <li>
+          <a href="https://www.scientificamerican.com/issue/supplements/1896/09-12/"><em>《科學人》</em>副刊在 9 月 12 日的報導</a>：
+          李鴻章在 Merchants’ Club
+          吃午餐時，他的其中一位翻譯聽到一位與會美國商人說他在哈佛大學時參與過划船比賽，
+          這位翻譯小聲地說他也在同場比賽中擔任艇長，並且贏得該年的比賽冠軍。
+          這位翻譯是當年在哈佛大學的華人學生，可惜沒有記下他的名字。
+        </li>
+      </ul>
+    </li>
+    <li>
+      <code>1896-09-02</code>
+      李鴻章接受美國記者採訪，結束後前往布魯克林的
+      <a href="https://en.wikipedia.org/wiki/Union_League_Club">Union League Club</a> 參加宴會，
+      並注意到俱樂部外才剛剛樹立不久的<a href="https://thereconstructionera.com/ulysses-s-grant-in-brooklyn/">格蘭特紀念像</a>。
+      <ul>
+        <li>
+          <a href="https://archive.org/details/sim_harpers-weekly_1896-09-12_40_2073"><em>Harper’s Weekly</em> 在 1896 年 9 月 12 日的報導</a>：
+          李鴻章在接受完採訪後前往
+          Union League Club 參加宴會。
+        </li>
+        <li>
+          <a href="https://nyti.ms/4fZnd17"><em>《紐約時報》</em>在 9 月 3 日的採訪報導</a>：
+          明確紀錄是在 9 月 2 日進行採訪。
+        </li>
+        <li>
+          <a href="https://hdl.handle.net/2027/hvd.32044067626119"><em>《李傅相歷聘歐美記》</em></a>在這天有記錄一個其他地方都沒說的小插曲：
+          李鴻章與前駐華公使聊天。聊到前駐華公使現在在從事人壽保險，李鴻章問能不能也幫他保，前公使連忙說依照公司規定，沒有辦法幫李中堂承保；
+          李鴻章旋即回問：「以余年邁而保不住耶？」。兩人大笑而別。沒有講到地點，但很有可能是在 Union League Club。</li>
+      </ul>
+    </li>
+    <li>
+      <code>1896-09-03</code>
+      李鴻章一早便動身離開紐約前往費城、華府。
+    </li>
+  </ul>
 </details>
 
 <details>
-<summary><strong>《紐約時報》中與李鴻章紐約行相關報導</strong></summary>
-
-  * `1896-08-23` [*Li Hung Chang has Sailed*](https://nyti.ms/4moqyJk):
-    報導李鴻章已從英國登船前往美國。
-    裡面記錄了一個小插曲：
-    李鴻章常直言不諱，遇到覺得奇怪的地方也會直接指出。
-    有一次他以為當時英國殖民地事務大臣[約瑟夫・張伯倫](https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E5%BC%A0%E4%BC%AF%E4%BC%A6)失去一眼的視力，
-    所以向他表達誠心的慰問。
-    這是個大烏龍，李鴻章大概沒見過單片眼鏡，所以誤以為張伯倫只戴一邊的眼鏡是因為一隻眼失明，
-    這搞得張伯倫有點尷尬。
-  * `1896-08-29` [*Li Hung Chang*](https://nyti.ms/4mIYPmf):
-    報導李鴻章抵達紐約，但是報導文中表示對迎接李鴻章的規格感到失望，
-    說儀仗隊沒有完全清空街道，還說船艦穿過港口時的路徑不對，沒有從是邊部署好的戰艦之間穿過。
-    最後說到美國人民希望李鴻章能有個愉快的美國之行，
-    並且想看看這位來自東方的使者能夠把古老的中國帶到現代文明的行列。
-  * `1896-08-31` [*Earl Li at Grant's Tomb*](https://nyti.ms/4myVHKk):
-    報導李鴻章憑弔格蘭特將軍墓的情況，頭版頭條。
-  * `1896-09-03` [*Li on American Hatred*](https://nyti.ms/4fZnd17):
-    李鴻章接受*《紐約時報》*採訪的全文。
-  * `1896-09-03` [*Li Hung Chang's Manifesto*](https://nyti.ms/3HGpL7g):
-    一篇回應李鴻章採訪的社論。
-    這篇社論的論點充滿美國精神，
-    我認為其論述的高度甚至超過李鴻章本人的回答。
-    首先，
-    社論指出李鴻章選擇透過媒體向美國人民傳達訊息，
-    顯示他理解美國輿論與新聞自由的重要性。
-    其次，
-    雖然社論同意李鴻章的觀點——華人工資低廉卻勞動力品質高——在經濟學上無可挑剔，
-    但仍然認為美國不應只因經濟利益而接納華人移民。
-    社論指出，移民問題不僅是經濟問題，
-    更關乎<ruby><rb>公民</rb><rp>（</rp><rt>civics</rt><rp>）</rp></ruby>與融入美國社會的能力，
-    因此不能僅憑經濟利益決定。
-    它同時承認，雖然華工數量從未對美國社會構成嚴重威脅，但若未來可能如此，美國社會仍有權決定是否接納華人移民。
-    然而，社論也嚴厲批判*《排華法案》*是非常愚蠢、懦弱並且蠱惑人心的法案（原文：stupid and cowardly pieces of demagogism）。
-    無論華人移工是否多到會影響美國社會，
-    美國都不應該屢次背棄對華條約，
-    任由華人——特別是西岸的華人——遭受各種<ruby><rb>可惡</rb><rp>（</rp><rt>outrageous</rt><rp>）</rp></ruby>且<ruby><rb>卑劣</rb><rp>（</rp><rt>dastardly</rt><rp>）</rp></ruby>的對待。
-    在這個層面上，社論完全同意李鴻章的立場，
-    並在結尾明言美國在*《排華法案》*問題上大錯特錯（原文：entirely in the wrong），應為自身的殘酷與背信感到羞恥。
-  * `1897-05-08` [*Li Hung Chang's Tree*](https://nyti.ms/41IccLr):
-    報導在李鴻章離開一年後，楊儒在格蘭特紀念館為李鴻章贈送的銀杏樹舉行種植儀式。
-  * `1901-11-07` [*Death of Li Hung Chang*](https://nyti.ms/4lyGXJZ):
-    報導李鴻章去世的消息，頭版頭條。
-  * `1902-06-12` [*Li Hung Chang Tree Exposed*](https://nyti.ms/4oEq8zZ):
-    報導李鴻章贈送的銀杏樹被人剝樹皮當作紀念品的事情，並且請求要加設圍欄來保護這棵樹。
-  * `1918-05-18` [*Li Hung Chang Tree Dying*](https://nyti.ms/45Vy0Ws):
-    報導李鴻章贈送的銀杏樹的部分根部在寒冬中凍死，
-    相關人員正在努力搶救這棵樹，但是表示情況不樂觀。
-
+  <summary>
+    <strong>《紐約時報》中與李鴻章紐約行相關報導</strong>
+  </summary>
+  <ul>
+    <li><code>1896-08-23</code> <a href="https://nyti.ms/4moqyJk"><em>Li Hung Chang has Sailed</em></a>:
+      報導李鴻章已從英國登船前往美國。
+      裡面記錄了一個小插曲：
+      李鴻章常直言不諱，遇到覺得奇怪的地方也會直接指出。
+      有一次他以為當時英國殖民地事務大臣<a href="https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E5%BC%A0%E4%BC%AF%E4%BC%A6">約瑟夫・張伯倫</a>失去一眼的視力，
+      所以向他表達誠心的慰問。
+      這是個大烏龍，李鴻章大概沒見過單片眼鏡，所以誤以為張伯倫只戴一邊的眼鏡是因為一隻眼失明，
+      這搞得張伯倫有點尷尬。
+    </li>
+    <li><code>1896-08-29</code> <a href="https://nyti.ms/4mIYPmf"><em>Li Hung Chang</em></a>:
+      報導李鴻章抵達紐約，但是報導文中表示對迎接李鴻章的規格感到失望，
+      說儀仗隊沒有完全清空街道，還說船艦穿過港口時的路徑不對，沒有從是邊部署好的戰艦之間穿過。
+      最後說到美國人民希望李鴻章能有個愉快的美國之行，
+      並且想看看這位來自東方的使者能夠把古老的中國帶到現代文明的行列。
+    </li>
+    <li><code>1896-08-31</code> <a href="https://nyti.ms/4myVHKk"><em>Earl Li at Grant’s Tomb</em></a>:
+      報導李鴻章憑弔格蘭特將軍墓的情況，頭版頭條。
+    </li>
+    <li><code>1896-09-03</code> <a href="https://nyti.ms/4fZnd17"><em>Li on American Hatred</em></a>:
+      李鴻章接受<em>《紐約時報》</em>採訪的全文。
+    </li>
+    <li><code>1896-09-03</code> <a href="https://nyti.ms/3HGpL7g"><em>Li Hung Chang’s Manifesto</em></a>:
+      一篇回應李鴻章採訪的社論。
+      這篇社論的論點充滿美國精神，
+      我認為其論述的高度甚至超過李鴻章本人的回答。
+      首先，社論指出李鴻章選擇透過媒體向美國人民傳達訊息，
+      顯示他理解美國輿論與新聞自由的重要性。
+      其次，雖然社論同意李鴻章的觀點——華人工資低廉卻勞動力品質高——在經濟學上無可挑剔，
+      但仍然認為美國不應只因經濟利益而接納華人移民。
+      社論指出，移民問題不僅是經濟問題，
+      更關乎<ruby><rb>公民</rb><rp>（</rp><rt>civics</rt><rp>）</rp></ruby>與融入美國社會的能力，
+      因此不能僅憑經濟利益決定。
+      它同時承認，雖然華工數量從未對美國社會構成嚴重威脅，但若未來可能如此，美國社會仍有權決定是否接納華人移民。
+      然而，社論也嚴厲批判<em>《排華法案》</em>是非常愚蠢、懦弱並且蠱惑人心的法案（原文：stupid and cowardly pieces of demagogism）。
+      無論華人移工是否多到會影響美國社會， 美國都不應該屢次背棄對華條約，
+      任由華人——特別是西岸的華人——遭受各種<ruby><rb>可惡</rb><rp>（</rp><rt>outrageous</rt><rp>）</rp></ruby>且<ruby><rb>卑劣</rb><rp>（</rp><rt>dastardly</rt><rp>）</rp></ruby>的對待。
+      在這個層面上，社論完全同意李鴻章的立場，
+      並在結尾明言美國在<em>《排華法案》</em>問題上大錯特錯（原文：entirely in the wrong），應為自身的殘酷與背信感到羞恥。
+    </li>
+    <li><code>1897-05-08</code> <a href="https://nyti.ms/41IccLr"><em>Li Hung Chang’s Tree</em></a>:
+      報導在李鴻章離開一年後，楊儒在格蘭特紀念館為李鴻章贈送的銀杏樹舉行種植儀式。
+    </li>
+    <li><code>1901-11-07</code> <a href="https://nyti.ms/4lyGXJZ"><em>Death of Li Hung Chang</em></a>:
+      報導李鴻章去世的消息，頭版頭條。
+    </li>
+    <li><code>1902-06-12</code> <a href="https://nyti.ms/4oEq8zZ"><em>Li Hung Chang Tree Exposed</em></a>:
+      報導李鴻章贈送的銀杏樹被人剝樹皮當作紀念品的事情，並且請求要加設圍欄來保護這棵樹。
+    </li>
+    <li><code>1918-05-18</code> <a href="https://nyti.ms/45Vy0Ws"><em>Li Hung Chang Tree Dying</em></a>:
+      報導李鴻章贈送的銀杏樹的部分根部在寒冬中凍死，
+      相關人員正在努力搶救這棵樹，但是表示情況不樂觀。
+    </li>
+  </ul>
 </details>

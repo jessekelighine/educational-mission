@@ -4,6 +4,3 @@ markdown: kramdown
 url: "https://jessekelighine.com"
 baseurl: "/educational-mission"
 permalink: /:year/:month/:day/:title/
-collections:
-  pages:
-    output: true

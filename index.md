@@ -5,14 +5,14 @@ author: "<a href=\"https://jessekelighine.com\"><code>jessekelighine.com</code><
 ---
 
 <nav id="TOC" role="doc-toc">
-<ul>
-<li><a href="#prologue">序</a></li>
-{% for post in site.posts reversed %}
-{% assign anchor = post.anchor | default: post.date | date: "%Y-%m-%d" %}
-<li><a href="#{{ anchor }}">{{ post.title }}</a></li>
-{% endfor %}
-<li><a href="#comments">留言板</a></li>
-</ul>
+  <ul>
+    <li><a href="#prologue">序</a></li>
+    {% for post in site.posts reversed %}
+    {% assign anchor = post.anchor | default: post.date | date: "%Y-%m-%d" %}
+    <li><a href="#{{ anchor }}">{{ post.title }}</a></li>
+    {% endfor %}
+    <li><a href="#comments">留言板</a></li>
+  </ul>
 </nav>
 
 # 序 {#prologue}
@@ -51,7 +51,3 @@ author: "<a href=\"https://jessekelighine.com\"><code>jessekelighine.com</code><
         crossorigin="anonymous"
         async>
 </script>
-
-<div class="back-to-top">
-<a href="#" class="back-to-top">↑</a>
-</div>
