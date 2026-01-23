@@ -1,0 +1,9 @@
+title: "《出洋肄習錄》"
+author: "jessekelighine.com"
+markdown: kramdown
+url: "https://jessekelighine.com"
+baseurl: "/educational-mission"
+permalink: /:year/:month/:day/:title/
+collections:
+  pages:
+    output: true

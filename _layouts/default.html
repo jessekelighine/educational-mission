@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="jekyll" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="author" content="{{ site.author }}" />
+  {% if page.date %}
+  <meta name="dcterms.date" content="{{ page.date | date: "%Y-%m-%d" }}" />
+  {% endif %}
+  <title>{{ page.title }}</title>
+  <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+  </style>
+  <link rel="stylesheet" href="{{ "/assets/css/style-imports.css" | relative_url }}" />
+  <link rel="stylesheet" href="{{ "/assets/css/style-img.css" | relative_url }}" />
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}" />
+  <link rel="icon" href="{{ "/resources/sheep_color.png" | relative_url }}">
+  <script defer=""
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js"
+  type="text/javascript"></script>
+</head>
+<body>
+{% if page.title %}
+<header id="title-block-header">
+<h1 class="title">{{ page.title }}</h1>
+{% if page.author %}
+<p class="author">{{ page.author }}</p>
+{% endif %}
+{% if page.date %}
+<p class="date">{{ page.date | date: "%Y-%m-%d" }}</p>
+{% endif %}
+</header>
+{% endif %}
+{{ content }}
+</body>
+</html>

@@ -1,0 +1,57 @@
+---
+layout: default
+title: "《出洋肄習錄》"
+author: "<a href=\"https://jessekelighine.com\"><code>jessekelighine.com</code></a>"
+---
+
+<nav id="TOC" role="doc-toc">
+<ul>
+<li><a href="#prologue">序</a></li>
+{% for post in site.posts reversed %}
+{% assign anchor = post.anchor | default: post.date | date: "%Y-%m-%d" %}
+<li><a href="#{{ anchor }}">{{ post.title }}</a></li>
+{% endfor %}
+<li><a href="#comments">留言板</a></li>
+</ul>
+</nav>
+
+# 序 {#prologue}
+
+> 奏為擬選聰穎子弟，前赴泰西各國，肄習技藝，以培人才，恭折仰祈聖鑒事。
+>
+> <p align="right">曾國藩〈擬選子弟出洋學藝折〉同治十年（1871）</p>
+
+單純記錄一些在紐約的所見所聞還有心情，
+所以以<ruby><rb>意識流</rb><rp>（</rp><rt>流水帳</rt><rp>）</rp></ruby>的體例寫作。
+
+<!-- POSTS START HERE  -->
+
+{% for post in site.posts reversed %}
+{% assign anchor = post.anchor | default: post.date | date: "%Y-%m-%d" %}
+<h1 id="{{ anchor }}">{{ post.title }}</h1>
+{{ post.content }}
+{% endfor %}
+
+# 留言板 {#comments}
+
+<script src="https://giscus.app/client.js"
+        data-repo="jessekelighine/jessekelighine.github.io"
+        data-repo-id="R_kgDOLmNjDQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOLmNjDc4CmBxS"
+        data-mapping="specific"
+        data-term="educational-mission-comments"
+        data-strict="0"
+        data-reactions-enabled="0"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="zh-TW"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
+
+<div class="back-to-top">
+<a href="#" class="back-to-top">↑</a>
+</div>
