@@ -1,8 +1,8 @@
 ---
-layout: post
 title: "李鴻章特輯"
-date: 2025-08-28
 anchor: "li-hung-chang-in-new-york"
+author: "<a href=\"https://jessekelighine.com\"><code>jessekelighine.com</code></a>"
+layout: default
 ---
 
 <style>

@@ -1,7 +1,7 @@
 ---
-layout: default
 title: "《出洋肄習錄》"
 author: "<a href=\"https://jessekelighine.com\"><code>jessekelighine.com</code></a>"
+layout: default
 ---
 
 <nav id="TOC" role="doc-toc">
@@ -9,7 +9,11 @@ author: "<a href=\"https://jessekelighine.com\"><code>jessekelighine.com</code><
     <li><a href="#prologue">序</a></li>
     {% for post in site.posts reversed %}
     {% assign anchor = post.anchor | default: post.date | date: "%Y-%m-%d" %}
+    {% if post.title and post.title != "Post" %}
     <li><a href="#{{ anchor }}">{{ post.title }}</a></li>
+    {% else %}
+    <li><a href="#{{ anchor }}">{{ post.date | date: "%Y-%m-%d" }}</a></li>
+    {% endif %}
     {% endfor %}
     <li><a href="#comments">留言板</a></li>
   </ul>
@@ -28,7 +32,11 @@ author: "<a href=\"https://jessekelighine.com\"><code>jessekelighine.com</code><
 
 {% for post in site.posts reversed %}
 {% assign anchor = post.anchor | default: post.date | date: "%Y-%m-%d" %}
+{% if post.title and post.title != "Post" %}
 <h1 id="{{ anchor }}">{{ post.title }}</h1>
+{% else %}
+<h1 id="{{ anchor }}">{{ post.date | date: "%Y-%m-%d" }}</h1>
+{% endif %}
 {{ post.content }}
 {% endfor %}
 
