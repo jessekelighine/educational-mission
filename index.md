@@ -43,13 +43,12 @@ layout: default
 # 留言板 {#comments}
 
 <script src="https://giscus.app/client.js"
-        data-repo="jessekelighine/jessekelighine.github.io"
-        data-repo-id="R_kgDOLmNjDQ"
-        data-category="Announcements"
+        data-repo="jessekelighine/educational-mission"
+        data-repo-id="R_kgDOQ_yBnA"
+        data-category="General"
         data-category-id="DIC_kwDOLmNjDc4CmBxS"
-        data-mapping="specific"
-        data-term="educational-mission-comments"
-        data-strict="0"
+        data-mapping="number"
+        data-term="1"
         data-reactions-enabled="0"
         data-emit-metadata="0"
         data-input-position="bottom"
