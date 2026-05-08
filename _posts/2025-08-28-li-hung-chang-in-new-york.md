@@ -551,7 +551,7 @@ layout: default
 > 圖片取自 [Grant Monument Association](https://grantstomb.org/burial-construction-early-history/)。
 
 格蘭特將軍在 1879 年拜訪李鴻章後前往日本，
-[在長崎親手種下一棵樹](https://www.grantcottage.org/blog/2019/4/16/firmly-planted)（至於是什麼樹眾說紛紜，無花果樹、橡樹、榕樹都有人說），
+[在長崎親手種下一棵橡樹](https://www.grantcottage.org/blog/2019/4/16/firmly-planted)，
 以為美日友誼之象徵。
 然而，[那棵樹已經在二戰中被摧毀了](https://www.nps.gov/articles/ulysses-s-grant-international-arbitrator.htm)。
 這邊的銀杏依然亭亭而立，
