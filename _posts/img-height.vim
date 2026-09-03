@@ -8,7 +8,7 @@
 " @return string HTML/Markdown formatted image with lazy loading and aspect ratio.
 function! <SID>Wrapper(file_path)
 	let l:aspect_ratio = system("identify -format '%w/%h' " .. a:file_path)
-	return '<img src="' .. a:file_path .. '" loading="lazy" style="aspect-ratio: ' .. l:aspect_ratio .. ';" />'
+	return '<img src="{{ "' .. a:file_path .. '" | relative_url }}" loading="lazy" style="aspect-ratio: ' .. l:aspect_ratio .. ';" />'
 	return '![](' .. a:file_path .. '){loading=lazy style="aspect-ratio: ' .. l:aspect_ratio .. ';"}'
 endfunction
 
